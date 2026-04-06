@@ -24,3 +24,6 @@ Seaborn
 Scikit-learn
 Streamlit
 Joblib
+
+
+<img width="1904" height="893" alt="image" src="https://github.com/user-attachments/assets/d0cccf5d-f3c8-4fe8-8362-b925f2e61815" />
